@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "46itBwowHNXprJp81UzoyffpZl9lsmwAY1WuvyxSymsf57gvhke5TYOHz/CRT+Sg8XGRWFQsrhVdNb1wLekWxg==",
+  "success": true,
+  "projectFilePath": "D:\\Speer\\Wikipedia\\Wikipedia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mariia.zaika\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\mariia.zaika\\.nuget\\packages\\selenium.webdriver\\4.3.0\\selenium.webdriver.4.3.0.nupkg.sha512",
+    "C:\\Users\\mariia.zaika\\.nuget\\packages\\selenium.webdriver.chromedriver\\103.0.5060.13400\\selenium.webdriver.chromedriver.103.0.5060.13400.nupkg.sha512"
+  ],
+  "logs": []
+}
